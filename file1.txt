@@ -1,2 +1,1 @@
-smth more informative than previous version
-more informative version of text file
+This file should contain only actual information
