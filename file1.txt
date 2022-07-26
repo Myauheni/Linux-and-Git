@@ -1,2 +1,2 @@
 smth more informative than previous version
-
+more informative version of text file
